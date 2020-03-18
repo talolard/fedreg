@@ -1,0 +1,7 @@
+*.tar.gz
+*/__*
+.idea
+.ipynb_checkpoints
+__pycache__/
+raw/
+mldata/elena_unlabeled_examples.json
